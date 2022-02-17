@@ -1,21 +1,5 @@
-import logo from "./logo.svg";
 import "./App.css";
 import { useEffect, useState } from "react";
-
-/*
-async function getBeer() {
-  const response = await fetch("https://api.punkapi.com/v2/beers/random", {
-    mode: "cors",
-  });
-  const beerData = await response.json();
-  const id = beerData[0].id;
-  const name = beerData[0].name;
-  const tagline = beerData[0].tagline;
-  const description = beerData[0].description;
-  const food = beerData[0].food_pairing;
-  return id + name + tagline + description + food;
-}
-*/
 
 function App() {
   const [name, nameSet] = useState(null);
