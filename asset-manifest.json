@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/punk-beer-guide/static/css/main.21cb4c68.css",
+    "main.js": "/punk-beer-guide/static/js/main.0b2b1e92.js",
+    "static/js/787.54c0559c.chunk.js": "/punk-beer-guide/static/js/787.54c0559c.chunk.js",
+    "index.html": "/punk-beer-guide/index.html",
+    "main.21cb4c68.css.map": "/punk-beer-guide/static/css/main.21cb4c68.css.map",
+    "main.0b2b1e92.js.map": "/punk-beer-guide/static/js/main.0b2b1e92.js.map",
+    "787.54c0559c.chunk.js.map": "/punk-beer-guide/static/js/787.54c0559c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21cb4c68.css",
+    "static/js/main.0b2b1e92.js"
+  ]
+}
